@@ -6,7 +6,7 @@
   - **Pigs Game** (.NET MVC) - A simple dice-rolling game where players take turns rolling a dice and accumulating points, with the risk of losing points if they roll a 1.
 
 
-- 🌱 I’m currently learning **.NET MVC**
+- 🌱 I’m currently learning on **React + Next.js**
 - 🧰 I’m skilled at **building and troubleshooting computers**
 - 📫 How to reach me: **jcala16@hotmail.com**
 
